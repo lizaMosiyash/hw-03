@@ -24,16 +24,16 @@
 
 ### Задание 1
 
-`https://github.com/lizaMosiyash/gitlab-hw-/commit/43a36f0e89809f1cfb2092e951b92959b6eb83b3`
+[https://github.com/lizaMosiyash/gitlab-hw-/commit/43a36f0e89809f1cfb2092e951b92959b6eb83b3]
 
 ---
 
 ### Задание 2
 
-`https://github.com/lizaMosiyash/gitlab-hw-/commit/ae6d775035d1773c1f5d7ff704f167071d48504b`
+[https://github.com/lizaMosiyash/gitlab-hw-/commit/ae6d775035d1773c1f5d7ff704f167071d48504b]
 
 ---
 
 ### Задание 3
 
-`https://github.com/lizaMosiyash/gitlab-hw-/network`
+[https://github.com/lizaMosiyash/gitlab-hw-/network]
