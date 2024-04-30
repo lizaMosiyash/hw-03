@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-[https://github.com/lizaMosiyash/gitlab-hw-/commit/43a36f0e89809f1cfb2092e951b92959b6eb83b3]
+[https://github.com/netology-code/sys-pattern-homework/commit/5f9dc6082cabaeedaee7592ed3455b1bda9ea815]
 
 ---
 
